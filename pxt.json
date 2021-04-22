@@ -1,6 +1,6 @@
 {
     "name": "bluetooth-keyboard",
-    "version": "0.0.7",
+    "version": "0.0.8",
     "description": "A Bluetooth Keyboard service",
     "license": "MIT",
     "dependencies": {
