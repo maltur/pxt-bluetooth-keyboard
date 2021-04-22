@@ -17,8 +17,5 @@
         "shims.d.ts",
         "enums.d.ts"
     ],
-    "testFiles": [
-        "tests.ts"
-    ],
     "public": true
 }
